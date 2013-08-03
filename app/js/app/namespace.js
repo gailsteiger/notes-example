@@ -5,3 +5,7 @@
  * Time: 21:23
  * To change this template use File | Settings | File Templates.
  */
+
+// Class names.
+alert(1);
+var App = App       || {};
