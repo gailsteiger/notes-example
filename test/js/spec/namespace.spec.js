@@ -5,7 +5,7 @@
  * Time: 21:32
  * To change this template use File | Settings | File Templates.
  */
-describe('Namespoce', function (){
+describe('Namespace', function (){
     it("provides the 'App' object", function (){
         // Expect exists and is an object.
         expect(App).to.be.an("object");
