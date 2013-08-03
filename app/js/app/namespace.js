@@ -7,5 +7,4 @@
  */
 
 // Class names.
-alert(1);
 var App = App       || {};
